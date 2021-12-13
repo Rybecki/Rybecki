@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate Javascript developer from Koło, Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rybecki&label=Profile%20views&color=0e75b6&style=flat" alt="rybecki" /> </p>
+My GitHub profile has been visited
+
+![Visitor Count](https://profile-counter.glitch.me/Rybecki/count.svg) times!
+&nbsp
+
 
 - 🔭 I’m currently working at [Beesafe](https://beesafe.pl/)
 
