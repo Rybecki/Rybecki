@@ -4,7 +4,9 @@
 My GitHub profile has been visited
 
 ![Visitor Count](https://profile-counter.glitch.me/Rybecki/count.svg) times!
-&nbsp
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 - 🔭 I’m currently working at [Beesafe](https://beesafe.pl/)
@@ -13,7 +15,7 @@ My GitHub profile has been visited
 
 - 💬 Ask me about **React, frontend development**
 
-- 📫 How to reach me **patryk.tomczyk1993@gmail.com**
+- 📫 How to reach me? **patryk.tomczyk1993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
