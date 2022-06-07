@@ -17,6 +17,11 @@ My GitHub profile has been visited
 
 - 📫 How to reach me? **patryk.tomczyk1993@gmail.com**
 
+<h3>Creator of:</h3>
+
+Marketing 4 More: https://marketing-4more.com/
+Paintball Kalisz: https://paintballkalisz.pl/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/patryk-tomczyk-3b2ab1151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-tomczyk-3b2ab1151/" height="30" width="40" /></a>
