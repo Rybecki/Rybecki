@@ -19,7 +19,7 @@ My GitHub profile has been visited
 
 <h3>Creator of:</h3>
 
-Marketing 4 More: https://marketing-4more.com/
+Marketing 4 More: https://marketing-4more.com/ <br>
 Paintball Kalisz: https://paintballkalisz.pl/
 
 <h3 align="left">Connect with me:</h3>
