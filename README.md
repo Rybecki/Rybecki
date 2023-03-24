@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">A passionate Javascript developer from Koło, Poland</h3>
-<div align="center">
-<a href="https://www.codewars.com/users/Rybecki"><img src="https://www.codewars.com/users/Rybecki/badges/large" target="_blank"></a>
+<div align="center" target="_blank">
+<a href="https://www.codewars.com/users/Rybecki"><img src="https://www.codewars.com/users/Rybecki/badges/large"></a>
 </div>
 <br />
 <br />
