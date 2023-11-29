@@ -15,7 +15,6 @@ My GitHub profile has been visited
 &nbsp;
 
 
-- 🔭 I’m currently working at [Beesafe](https://beesafe.pl/)
 
 - 🌱 I’m currently learning **React, Node**
 
