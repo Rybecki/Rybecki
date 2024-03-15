@@ -26,6 +26,7 @@ My GitHub profile has been visited
 
 Marketing 4 More: https://marketing-4more.com/ <br>
 Paintball Kalisz: https://paintballkalisz.pl/
+Fort Belweder: https://fortbelweder.pl/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
