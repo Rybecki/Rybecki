@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A passionate Javascript developer from Koło, Poland</h3>
+<h3 align="center">A Typescript developer from Koło, Poland</h3>
 <div align="center">
 <a href="https://www.codewars.com/users/Rybecki" target="_blank"><img src="https://www.codewars.com/users/Rybecki/badges/large"></a>
 </div>
