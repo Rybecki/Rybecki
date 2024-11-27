@@ -16,7 +16,7 @@ My GitHub profile has been visited
 
 
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, frontend development**
 
